@@ -1,0 +1,44 @@
+@font-face {
+    font-family: prox;
+    src: url(proximanova-extrabold-webfont.ttf);
+}
+
+
+.nav li{
+	display: inline;
+	padding-right: 30px;
+	
+}
+
+.nav a{
+	color: #747a7a; 
+	font-family: 'Raleway', sans-serif;
+	font-size: 14pt;
+	text-decoration: none;
+}
+
+.nav .container {
+	padding-bottom: 20px;
+}
+
+.nav ul > li {
+	color:3c3d42;
+	font-family: prox;
+	font-size: 30pt;
+}
+
+.jumbo {
+	background-image: url('http://i.imgur.com/vzPg27V.jpg');
+	background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;   
+	height: 500px;
+	
+
+
+  	
+}
+
+.container{
+
+}
