@@ -1,3 +1,4 @@
+
 .nav {
 	margin-top: 55px;
 
@@ -5,26 +6,36 @@
 
 .nav-left li {
 	display: inline;
-	padding-right: 40px;
+	position: relative;
+	right: -15%;
+	padding-right: 44px;
+
+
+	
+	
 }
 
 .nav-left a {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 300;
-	font-size: 17px;
+	font-size: 20px;
 	color: black;
 }
 
 .nav-right li {
 	display: inline;
-	padding-left: 40px;
+	position: relative;
+	left: -13%;
+	padding-right: 32px;
+	
 }
 
 .nav-right a {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 300;
-	font-size: 17px;
+	font-size: 20px;
 	color: black;
+
 }
 
 
@@ -32,6 +43,8 @@
 
 	margin-top: -25px;
 }
+
+
 
 
 
