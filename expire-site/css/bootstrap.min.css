@@ -1,0 +1,40 @@
+.nav {
+	margin-top: 55px;
+
+}
+
+.nav-left li {
+	display: inline;
+	padding-right: 40px;
+}
+
+.nav-left a {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 17px;
+	color: black;
+}
+
+.nav-right li {
+	display: inline;
+	padding-left: 40px;
+}
+
+.nav-right a {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 17px;
+	color: black;
+}
+
+
+.nav .logo img {
+
+	margin-top: -25px;
+}
+
+
+
+
+
+
