@@ -1,0 +1,120 @@
+@font-face {
+    font-family: prox;
+    src: url(proximanova-extrabold-webfont.ttf);
+}
+
+.nav{
+	position: relative;
+	margin-top: 29px;
+}
+.nav li{
+	display: inline;
+	padding-right: 20px;
+	
+}
+
+.nav a{
+	color: #747a7a; 
+	font-family: 'Raleway', sans-serif;
+	font-size: 10pt;
+	text-decoration: none;
+}
+
+.nav .container {
+	padding-bottom: 20px;
+}
+
+.nav ul > li {
+	color:#3c3d42;
+	font-family: prox;
+	font-size: 20pt;
+}
+
+.jumbo {
+	background-image: url('http://i.imgur.com/anqaT5c.jpg');
+	background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;   
+	height: 500px;
+	width: 100%;
+	
+
+
+  	
+}
+
+.jumbo a {
+	position: relative;
+	top: 300px;
+	left: 18%;
+	border: 2px solid black;
+	border-radius: 100px;
+	border-color: white;
+	padding: 7px 25px 7px 25px;
+	text-decoration: none;
+	color: white;
+
+	
+    
+
+	
+}
+
+.heading h2{
+	text-align: center;
+	margin-top: 100px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+}
+
+.heading p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 16pt;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.heading-feature li{
+
+	height: 80px;
+	width: 295px;
+	border-right: 1px solid #dbe2e2;
+	list-style-type: none;
+	text-align: center;
+	line-height: 80px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 17px;
+	color: #9fa9a9;
+
+
+}
+
+.heading-feature {
+	margin-top: 120px;
+	
+	margin-bottom: 125px;
+
+}
+
+.heading-feature img {
+	border: 0px solid black;
+	position: relative;
+	left: -35px;
+}
+
+.heading-feature ul {
+	cursor: pointer;
+	margin-left: 30px;
+}
+
+.second-feature {
+	width: 100%;
+	height: 820px;
+	background-color: #f2f9fe;
+}
+
+
+	
+
+
+
