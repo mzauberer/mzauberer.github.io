@@ -1,6 +1,8 @@
 
 .nav {
-	margin-top: 55px;
+	padding-top: 55px;
+	position: relative;
+	top: -900px;
 
 }
 
@@ -19,7 +21,7 @@
 	font-family: 'Raleway', sans-serif;
 	font-weight: 300;
 	font-size: 20px;
-	color: black;
+	color: #fafafa;
 }
 
 .nav-right li {
@@ -34,7 +36,7 @@
 	font-family: 'Raleway', sans-serif;
 	font-weight: 300;
 	font-size: 20px;
-	color: black;
+	color: #fafafa;
 
 }
 
@@ -44,7 +46,11 @@
 	margin-top: -25px;
 }
 
-
+.jumbo {
+	background-color: #3d4148;
+	height: 900px;
+	
+}
 
 
 
