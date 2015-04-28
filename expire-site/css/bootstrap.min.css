@@ -5,15 +5,11 @@
 }
 
 .nav-left li {
-
+	text-decoration: none;
 	display: inline;
 	position: relative;
 	right: -15%;
 	padding-right: 44px;
-
-
-	
-	
 }
 
 .nav-left a {
@@ -21,6 +17,7 @@
 	font-weight: 300;
 	font-size: 20px;
 	color: #fafafa;
+	text-decoration: none;
 }
 
 .nav-right li {
@@ -28,6 +25,8 @@
 	position: relative;
 	left: -13%;
 	padding-right: 32px;
+	
+
 	
 }
 
@@ -47,15 +46,11 @@
 
 .jumbo {
 	background-color: #3d4148;
-	height: 835px;
+	height: 1500px; /*835px*/
+	color: white;
 
 	
 }
-
-
-
-
-
 
 
 
