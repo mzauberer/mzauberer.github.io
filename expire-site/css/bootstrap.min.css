@@ -1,12 +1,11 @@
 
 .nav {
 	padding-top: 55px;
-	position: relative;
-	top: -900px;
-
+	background-color: #3d4148;
 }
 
 .nav-left li {
+
 	display: inline;
 	position: relative;
 	right: -15%;
@@ -48,9 +47,12 @@
 
 .jumbo {
 	background-color: #3d4148;
-	height: 900px;
+	height: 835px;
+
 	
 }
+
+
 
 
 
